@@ -1,27 +1,10 @@
 <div align="center">
   
-# 👋 Hi there, I'm MD.Saif Ali Molla!
+# 👋 Hi there, I'm MD. Saif Ali Molla!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Embedded+and+Low-level+Enthusiast;Also+do+App+and+Web+dev%2C+huh!;You're+still+here%3F+Thanks+dude.;You+are+a+real+one.Here's+a+wisdom.;Consciousness+was+a+mistake.)](https://git.io/typing-svg)
 
 </div>
-
-## 🔥 What I'm Up To
-
-<table>
-<tr>
-  
-<td width="60%">
-### 🌱 Currently Learning
-- ⚡ Backend Development
-- ⚙️ Systems Engineering
-- ☁️ Embedded Sytems
-- 🔐 Low-level Programming
-
-</td>
-</tr>
-</table>
-
 
 ## 🛠️ Tech Stack & Tools
 
@@ -44,10 +27,12 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🚀 DevOps & Tools
+### 🚀 Stuffs
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Device Drivers](https://img.shields.io/badge/-Device%20Drivers-DC382D?style=for-the-badge&logo=redhat&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 </div>
 
@@ -74,21 +59,16 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MdSaifAliMolla&repo=FUZZ&theme=tokyonight)](https://github.com/MdSaifAliMolla/FUZZ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MdSaifAliMolla&repo=Aim&theme=tokyonight)](https://github.com/MdSaifAliMolla/Aim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MdSaifAliMolla&repo=lyanna&theme=tokyonight)](https://github.com/MdSaifAliMolla/lyanna)
 
 </div>
-
-### 🌟 Other Notable Projects
-- 🔥 **[Awesome Web App](https://github.com/yourusername/project)** - A modern web application built with React and Node.js
-- 🤖 **[AI Chat Bot](https://github.com/yourusername/project)** - Intelligent chatbot using natural language processing
-- 📱 **[Mobile App](https://github.com/yourusername/project)** - Cross-platform mobile app with React Native
-- 🎮 **[Game Project](https://github.com/yourusername/project)** - Interactive game built with JavaScript
 
 
 ## 🤝 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/md-saif-ali-molla-0751b227a/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourwebsite.com)
 
