@@ -1,9 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm MD. Saif Ali Molla!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Embedded+and+Low-level+Enthusiast;Also+do+App+and+Web+dev%2C+huh!;You're+still+here%3F+Thanks+dude.;You+are+a+real+one.Here's+a+wisdom.;Consciousness+was+a+mistake.)](https://git.io/typing-svg)
-
+ ### 👋 Hi there, I'm MD. Saif Ali Molla!
 </div>
 
 ## 🛠️ Tech Stack & Tools
