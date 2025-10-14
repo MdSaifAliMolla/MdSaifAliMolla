@@ -1,8 +1,21 @@
-<div align="center">
-  
- ### 👋 Hi there, I'm MD. Saif Ali Molla!
-</div>
+<h1 align="center" style="color:#8B0000;">⚜️ Md. Saif Ali Molla ⚜️</h1>
+<h3 align="center" style="color:#DAA520;"><i>First of His Name</i></h3>
 
+<p align="center" style="color:#C0C0C0;">
+<b>The Relentless</b><br>
+Wielder of the Sacred Keyboard<br>
+Lord of the Uncompiled<br>
+Bane of Burnout<br>
+Tamer of Chaos<br>
+Child of Midnight<br>
+Whisperer to Storms<br>
+Destroyer of Bugs<br>
+The Calm Before — and the Wreck After<br>
+He Who Walks Unbothered While the World Burns
+</p>
+
+
+<!--
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -96,3 +109,4 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+-->
