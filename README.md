@@ -1,18 +1,26 @@
-<h1 align="center" style="color:#8B0000;">⚜️ Md. Saif Ali Molla ⚜️</h1>
-<h3 align="center" style="color:#DAA520;"><i>First of His Name</i></h3>
-
-<p align="center" style="color:#C0C0C0;">
-<b>The Relentless</b><br>
-Wielder of the Sacred Keyboard<br>
-Lord of the Uncompiled<br>
-Bane of Burnout<br>
-Tamer of Chaos<br>
-Child of Midnight<br>
-Whisperer to Storms<br>
-Destroyer of Bugs<br>
-The Calm Before — and the Wreck After<br>
-He Who Walks Unbothered While the World Burns
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c5b78f9b-4787-47e2-a663-5110d9fec3eb" width="320" height="320" />
+    </td>
+    <td style="padding-left:20px; vertical-align:top;">
+      <h1 style="color:#8B0000;">⚜️ Md. Saif Ali Molla ⚜️</h1>
+      <h3 style="color:#DAA520;"><i>First of His Name</i></h3>
+      <p style="color:#C0C0C0;">
+        <b>The Relentless</b><br>
+        Wielder of the Sacred Keyboard<br>
+        Lord of the Uncompiled<br>
+        Bane of Burnout<br>
+        Tamer of Chaos<br>
+        Child of Midnight<br>
+        Whisperer to Storms<br>
+        Destroyer of Bugs<br>
+        The Calm Before — and the Wreck After<br>
+        He Who Walks Unbothered While the World Burns
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <!--
